@@ -38,11 +38,263 @@ public class banan {
             försök++;
 
         }
-
+        if (försök == 1) ;
+        {
+            System.out.println("^^^^^^^^^^^^^|^^^^^^^^^^|^^^^^|");
+            System.out.println("|^|^^^^^^^^^^|^^^^^^^^^^|^^^| |");
+            System.out.println("| |                         | |");
+            System.out.println(": :                         : :");
+            System.out.println(". |                         . .");
+        }
+        if (försök == 2) ;
+        {
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("^^^^^^^^^^^^^|^^^^^^^^^^|^^^^^|");
+            System.out.println("|^|^^^^^^^^^^|^^^^^^^^^^|^^^| |");
+            System.out.println("| |                         | |");
+            System.out.println(": :                         : :");
+            System.out.println(". |                         . .");
+        }
+        if (försök == 3) ;
+        {
+            System.out.println(".____________________.");
+            System.out.println("| .__________________|");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("^^^^^^^^^^^^^|^^^^^^^^^^|^^^^^|");
+            System.out.println("|^|^^^^^^^^^^|^^^^^^^^^^|^^^| |");
+            System.out.println("| |                         | |");
+            System.out.println(": :                         : :");
+            System.out.println(". |                         . .");
+        }
+        if (försök == 3) ;
+        {
+            System.out.println(".____________________.");
+            System.out.println("| .__________________|");
+            System.out.println("| |  / /");
+            System.out.println("| | / / ");
+            System.out.println("| |/ /");
+            System.out.println("| | / ");
+            System.out.println("| |/");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("^^^^^^^^^^^^^|^^^^^^^^^^|^^^^^|");
+            System.out.println("|^|^^^^^^^^^^|^^^^^^^^^^|^^^| |");
+            System.out.println("| |                         | |");
+            System.out.println(": :                         : :");
+            System.out.println(". |                         . .");
+        }
+        if (försök == 4) ;
+        {
+            System.out.println(".___________.._______.");
+            System.out.println("| .__________))______|");
+            System.out.println("| |  / /     ||");
+            System.out.println("| | / /      || ");
+            System.out.println("| |/ /       ||");
+            System.out.println("| | /        ||");
+            System.out.println("| |/         ||");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("^^^^^^^^^^^^^|^^^^^^^^^^|^^^^^|");
+            System.out.println("|^|^^^^^^^^^^|^^^^^^^^^^|^^^| |");
+            System.out.println("| |                         | |");
+            System.out.println(": :                         : :");
+            System.out.println(". |                         . .");
+        }
+        if (försök == 5) ;
+        {
+            System.out.println(".___________.._______.");
+            System.out.println("| .__________))______|");
+            System.out.println("| |  / /     ||       ");
+            System.out.println("| | / /      ||       ");
+            System.out.println("| |  /       ||.-''.. ");
+            System.out.println("| |/         |/  _  | ");
+            System.out.println("| |          ||  ./.| ");
+            System.out.println("| |          (\\__o.'  ");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("^^^^^^^^^^^^^|^^^^^^^^^^|^^^^^|");
+            System.out.println("|^|^^^^^^^^^^|^^^^^^^^^^|^^^| |");
+            System.out.println("| |                         | |");
+            System.out.println(": :                         : :");
+            System.out.println(". |                         . .");
+        }
+        if (försök == 6) ;
+        {
+            System.out.println(".___________.._______.");
+            System.out.println("| .__________))______|");
+            System.out.println("| |  / /     ||       ");
+            System.out.println("| | / /      ||       ");
+            System.out.println("| |  /       ||.-''.. ");
+            System.out.println("| |/         |/ _ _ | ");
+            System.out.println("| |          || ./. | ");
+            System.out.println("| |          (\\_o_.' ");
+            System.out.println("| |          .-`--'.  ");
+            System.out.println("| |          |.  .|   ");
+            System.out.println("| |          |    |   ");
+            System.out.println("| |          | .  |   ");
+            System.out.println("| |          |    |   ");
+            System.out.println("| |          |____  |   ");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("| |");
+            System.out.println("^^^^^^^^^^^^^|^^^^^^^^^^|^^^^^|");
+            System.out.println("|^|^^^^^^^^^^|^^^^^^^^^^|^^^| |");
+            System.out.println("| |                         | |");
+            System.out.println(": :                         : :");
+            System.out.println(". |                         . .");
+        }
+        if (försök == 7) ;
+        {
+            System.out.println(".___________.._______.");
+            System.out.println("| .__________))______|");
+            System.out.println("| |  / /     ||       ");
+            System.out.println("| | / /      ||       ");
+            System.out.println("| |  /       ||.-''.. ");
+            System.out.println("| |/         |/ _ _ | ");
+            System.out.println("| |          || ./. | ");
+            System.out.println("| |          (\\_o_.' ");
+            System.out.println("| |          .-`--'.  ");
+            System.out.println("| |          |.  .|   ");
+            System.out.println("| |          |    |   ");
+            System.out.println("| |          | .  |   ");
+            System.out.println("| |          |    |   ");
+            System.out.println("| |          ||^^||   ");
+            System.out.println("| |          ||  ||   ");
+            System.out.println("| |          ||  ||   ");
+            System.out.println("| |          ||  ||   ");
+            System.out.println("| |         / |  | \\ ");
+            System.out.println("| |         `-'  `-'  ");
+            System.out.println("| |");
+            System.out.println("^^^^^^^^^^^^^|^^^^^^^^^^|^^^^^|");
+            System.out.println("|^|^^^^^^^^^^|^^^^^^^^^^|^^^| |");
+            System.out.println("| |                         | |");
+            System.out.println(": :                         : :");
+            System.out.println(". |                         . .");
+        }
+        if (försök == 8) ;
+        {
+            System.out.println(".___________.._______.");
+            System.out.println("| .__________))______|");
+            System.out.println("| |  / /     ||       ");
+            System.out.println("| | / /      ||       ");
+            System.out.println("| |  /       ||.-''.. ");
+            System.out.println("| |/         |/ _ _ | ");
+            System.out.println("| |          || ./. | ");
+            System.out.println("| |          (\\_o_.' ");
+            System.out.println("| |          .-`--'.  ");
+            System.out.println("| |        /Y .  . Y\\");
+            System.out.println("| |       // |    |  \\ ");
+            System.out.println("| |      //  | .  |   \\\\");
+            System.out.println("| |     ')   |    |   (`");
+            System.out.println("| |          ||^^||   ");
+            System.out.println("| |          ||  ||   ");
+            System.out.println("| |          ||  ||   ");
+            System.out.println("| |          ||  ||   ");
+            System.out.println("| |         / |  | \\ ");
+            System.out.println("| |         `-'  `-'  ");
+            System.out.println("| |");
+            System.out.println("^^^^^^^^^^^^^|^^^^^^^^^^|^^^^^|");
+            System.out.println("|^|^^^^^^^^^^|^^^^^^^^^^|^^^| |");
+            System.out.println("| |                         | |");
+            System.out.println(": :                         : :");
+            System.out.println(". |                         . .");
+        }
+        if (försök == 9) ;
+        {
+            System.out.println(".___________.._______.");
+            System.out.println("| .__________))______|");
+            System.out.println("| |  / /     ||       ");
+            System.out.println("| | / /      ||       ");
+            System.out.println("| |  /       ||.-''.. ");
+            System.out.println("| |/         |/ _ _ | ");
+            System.out.println("| |          || ./. | ");
+            System.out.println("| |          (\\_o_.' ");
+            System.out.println("| |          .-`--'.  ");
+            System.out.println("| |        /Y . .  Y\\");
+            System.out.println("| |       // |    |  \\ ");
+            System.out.println("| |      //  | .  |   \\\\");
+            System.out.println("| |     ')   |    |   (`");
+            System.out.println("| |          ||^^||   ");
+            System.out.println("| |          ||  ||   ");
+            System.out.println("| |          ||  ||   ");
+            System.out.println("| |          ||  ||   ");
+            System.out.println("| |         / |  | \\ ");
+            System.out.println("| |         `-'  `-'  ");
+            System.out.println("| |");
+            System.out.println("^^^^^^^^^^^^^|_`-' `-' |^^^^^|");
+            System.out.println("|^|^^^^^^^^^^|^^^^^^^^^^|^^^| |");
+            System.out.println("| |                         | |");
+            System.out.println(": :                         : :");
+            System.out.println(". |                         . .");
+        }
     }
-
-
-
-
-
 }
